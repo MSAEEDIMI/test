@@ -1,10 +1,6 @@
-import 'package:carousel_slider/carousel_slider.dart';
-import 'package:dotted_border/dotted_border.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:news2/data.dart';
 import 'package:news2/droo.dart';
-import 'package:news2/splashScreen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -53,7 +49,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
+// mohgamma
 class _BottomNavigation extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
